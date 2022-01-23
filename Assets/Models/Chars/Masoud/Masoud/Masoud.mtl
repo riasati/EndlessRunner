@@ -1,0 +1,50 @@
+# Exported from Fuse 1.3.0
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Masoud_Body_diffuse.png
+map_Ks Masoud_Body_specular.png
+bump Masoud_Body_normal.png
+map_Ns Masoud_Body_gloss.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Masoud_Top_diffuse.png
+map_Ks Masoud_Top_specular.png
+bump Masoud_Top_normal.png
+map_Ns Masoud_Top_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Masoud_Shoes_diffuse.png
+map_Ks Masoud_Shoes_specular.png
+bump Masoud_Shoes_normal.png
+map_Ns Masoud_Shoes_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Masoud_Bottom_diffuse.png
+map_Ks Masoud_Bottom_specular.png
+bump Masoud_Bottom_normal.png
+map_Ns Masoud_Bottom_gloss.png
+
